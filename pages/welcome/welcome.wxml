@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class="user-avatar" src='/images/apple.jpg'></image>
+  <text class='text'>Hello, jackhui</text>
+  <view class='moto-container' bindtap='onTap'>
+    <text class='text'>开启小程序之旅</text>
+  </view>
+</view>
